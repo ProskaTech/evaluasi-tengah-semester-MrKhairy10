@@ -1,6 +1,11 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8983189&assignment_repo_type=AssignmentRepo)
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+## 21343083_Mubarakh Hayatna Khairy
+
+1. UTS_1 java merupakan file soal 1 UTS, menampilkan pola heart/love dalam bentuk.
+Soal nomor 1 menggunakan program for bersarang yaitu menggunakan for didalam for
+
+2. UTS_2 java merupakan file soal 2 UTS, menampilkan pola baris bilangan dalam bentuk pagar dan bintang
+Soal nomor 2 menggunakan kelas scanner dan kemudian menggunakan for bercabang
+
+3. UTS_3 java merupakan file soal 3 UTS, menentukan angka yang di inputkan. Apakah negatif atau positif menggunakan JOptionpane.
+Soal nomor 3 menggunakan JOptionPane dan juga menggunakan if else untuk menentukan bilangan positif atau negatif
